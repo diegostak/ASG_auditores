@@ -1,0 +1,35 @@
+
+.logo-footer {
+    height: 87px;
+    width: 300px;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.contacto-footer {
+    background-color: $naranja-footer;
+    color: $blanco;
+    padding-top: 1rem;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.mailcontacto {
+    color: $blanco;
+    
+}
+.direccion {
+    color: $blanco;
+    margin-left: 2rem;   
+}
+.direccion-off {
+    color: $blanco;
+}
+.telefono {
+    color: $blanco;
+    text-decoration: none;
+}
+

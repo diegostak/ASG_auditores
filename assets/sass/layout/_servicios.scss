@@ -1,0 +1,45 @@
+.servicios {
+    background-color: $naranja-back;
+    padding-bottom: 2rem;
+
+}
+
+.titulo-servicios {
+    font-family: 'Roboto';
+    font-weight: $roboto-ligth;
+    color: $blanco;
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    
+}
+
+.area-contable {
+    padding: 1rem;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: $open-sans-regular;
+    color: $blanco;
+}
+.titulo-area-contable {
+    color: $azul-claro;
+    padding-bottom: 2rem;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: $open-sans-bold;
+}
+.area-impuestos {
+    padding: 2rem;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: $open-sans-regular;   
+    color: $blanco; 
+}
+.titulo-area-impuestos {
+    color: $azul-claro;
+    padding-bottom: 2rem;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: $open-sans-bold;
+}
+
+.card-title {
+    font-family: 'Roboto';
+    font-weight: $roboto-bold;
+}

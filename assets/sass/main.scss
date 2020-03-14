@@ -1,0 +1,21 @@
+@import 'abstracts/variables';
+
+@import 'vendors/boostrap/bootstrap.scss';
+
+@import 'base/reset';
+
+@import 'components/navbar';
+@import 'components/collapse';
+@import 'components/modal';
+@import 'components/buttons';
+@import 'components/cards';
+
+
+@import 'layout/contactanos';
+@import 'layout/header';
+@import 'layout/main';
+@import 'layout/misionvision';
+@import 'layout/footer';
+@import 'layout/servicios';
+
+

@@ -1,0 +1,50 @@
+.mision_vision {
+    padding: 2rem;
+    background-color: $blanco;
+    
+}
+.logo-mision-vision {
+    padding-top: 1rem;
+    width: 300px;
+    height: 87px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2rem;
+  background-color: $blanco;
+      
+}
+
+.mision {
+    background-color: $naranja-back;
+    padding: 1rem;
+    color: $blanco;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: $open-sans-regular;
+    border-radius: 20px 20px 20px 20px;
+-moz-border-radius: 20px 20px 20px 20px;
+-webkit-border-radius: 20px 20px 20px 20px;
+border: 0px solid #000000;
+}
+.titulo-mision {
+    color: $azul-menos-oscuro;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: $open-sans-bold;
+}
+.titutlo-vision {
+    color: $azul-menos-oscuro;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: $open-sans-bold;
+}
+.vision {
+font-family: 'Open Sans', sans-serif;
+font-weight: $open-sans-regular;
+color: $azul-menos-oscuro;
+border-radius: 2px;
+padding: 1rem;
+-moz-border-radius: 20px 20px 20px 20px;
+-webkit-border-radius: 20px 20px 20px 20px;
+border: 2px solid ; 
+border-color: $naranja-back;
+
+}
